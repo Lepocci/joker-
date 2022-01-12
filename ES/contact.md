@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Project](project) | [Publications](publications) | [Partners](partners) | Contact Us | [Tools](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker/FR/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker/RU/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker/PT/index) 
+[Home](index) | [Project](project) | [Publications](publications) | [Partners](partners) | Contact Us | [Tools](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index) 
 <br>
 
 ## Contact us via:

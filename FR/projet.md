@@ -3,9 +3,9 @@
   <img src="../img/Joker.png" width="120" height="142">
   </p>
 
-[Accueil](index) | Projet | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker/EN/index) [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker/PT/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker/RU/index) 
+[Accueil](index) | Projet | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
-  <h1 align="center"><a href="https://lepocci.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
+  <h1 align="center"><a href="https://lepocci.github.io/joker-/EN">CLEF Workshop JOKER</a>:</h1>
   <h2 align="center">Traduction automatique des jeux de mots et de l'humour
 </h2>
 

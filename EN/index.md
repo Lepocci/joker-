@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- Home | [Project](project) | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker/ES/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker/FR/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker/RU/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker/PT/index)
+ Home | [Project](project) | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index)
 <br>
 
 <h2 align="center">Interculturality and Localization of Humor and Puns</h2>

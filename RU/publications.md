@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- [Home](index) | [Project](project) | Publications | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker/RU/index)
+ [Home](index) | [Project](project) | Publications | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)
 <br>
 
 <h2 align="center">Publications related to the JOKER project</h2>

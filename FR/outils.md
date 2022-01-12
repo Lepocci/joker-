@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Accueil](index) | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | Outils | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker/EN/index) [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker/PT/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker/RU/index) 
+[Accueil](index) | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | Outils | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
 
 <br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT est un prototype d'outil interactif pour la traduction de jeux de mots assistée par ordinateur . Bien qu'il puisse être  assez facilement adapté pour fonctionner avec n'importe quelle paire de langues pour laquelle des wordnets sont disponibles, il ne prend actuellement en charge que la traduction de l'anglais vers l'allemand.

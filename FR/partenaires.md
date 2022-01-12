@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Accueil](index) | [Projet](projet) | [Publications](publications) | Partenaires | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker/EN/index) [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker/PT/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker/RU/index) 
+[Accueil](index) | [Projet](projet) | [Publications](publications) | Partenaires | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
 
 ## Organisateur·rice·s :
