@@ -12,7 +12,7 @@
 * **Multilingual T5 (mT5)**  is a large multilingual pretrained text-to-text transformer model developped by Google covering 101 languages. mT5 can be fine-tuned using the [SimpleT5 library](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Este projeto recebeu um subsídio do governo administrado pela Agência Nacional de Investigação no âmbito do programa "Investissements d'avenir" com a Referência ANR-19-GURE-0001</em>
 </p>
 <p>
 <em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>

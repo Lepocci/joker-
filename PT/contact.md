@@ -18,7 +18,7 @@
 <a class="twitter-timeline" href="https://twitter.com/joker_research?ref_src=twsrc%5Etfw">Tweets by joker_research</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>
-<em>Este projeto recebeu uma subvenção governamental gerida pela Agência Nacional de Investigação no âmbito do programa "Investissements d'avenir" com a Referência ANR-19-GURE-0001</em>
+<em>Este projeto recebeu um subsídio do governo administrado pela Agência Nacional de Investigação no âmbito do programa "Investissements d'avenir" com a Referência ANR-19-GURE-0001</em>
 </p>
 <p>
 <em>JokeR é apoiado pelo Instituto de Ciências Humanas da Bretanha (MSHB)</em>

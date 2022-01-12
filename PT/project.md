@@ -66,7 +66,7 @@ Opening speech 15 min
   </p>
   
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Este projeto recebeu um subsídio do governo administrado pela Agência Nacional de Investigação no âmbito do programa "Investissements d'avenir" com a Referência ANR-19-GURE-0001</em>
 </p>
 <p>
 <em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
