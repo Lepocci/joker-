@@ -8,20 +8,20 @@
 
 <h2 align="center">Межкультурность и Локализация Юмора и Каламбуров</h2>
 
-<h3>Abstract</h3>
+<h3>Реферат</h3>
 
-Intercultural communication relies heavily on translation. Humor remains by far one of its most difficult aspects; to understand humor, one often has to grasp implicit cultural references and/or capture double meanings, which of course raises the question of the (in)translatability of humor. Puns are a common source of humor and are used by novelists and poets, as well as in headlines and advertising for their attention-getting or mnemonic, playful, subversive, etc. values. The translation of humor and puns is therefore in high demand. Modern translation is heavily aided by technological tools, yet few works have studied the automation of humor and puns translation and the creation of humor corpora. To the best of our knowledge, there does not exist any parallel corpus. The JokeR project addresses the issue of European identity through the study of humor in a cross-cultural perspective. The main objective of the JokeR project is to study the strategies of localization of humor and puns and to create a multilingual parallel corpus, annotated according to these strategies, open and freely available.
+Межкультурная коммуникация во многом зависит от перевода. Юмор остается, безусловно, одним из самых сложных аспектов; чтобы понять юмор, часто приходится улавливать имплицитные культурные отсылки и/или улавливать двойные значения, что, конечно же, поднимает вопрос о (не)переводимости юмора. Каламбуры являются распространенным источником юмора и используются писателями и поэтами, а также в заголовках и рекламе из-за их привлекающих внимание или мнемонических, игривых, подрывных и других ценностях. Поэтому перевод юмора и каламбуров пользуется большим спросом. Современному переводу в значительной степени помогают технологические инструменты, но в немногих работах изучалась автоматизация перевода юмора и каламбуров, а также создание корпусов юмора. Насколько нам известно, параллельных корпусов не существует. Проект JokeR решает проблему европейской идентичности через изучение юмора в межкультурной перспективе. Основная цель проекта JokeR — изучить стратегии локализации юмора и каламбуров и создать многоязычный параллельный корпус, аннотированный в соответствии с этими стратегиями, открытый и свободно доступный.
 
 
-<a href="https://ai-days.bzh/" target="_blank">Link to the AI DAYS event website</a>
+<a href="https://ai-days.bzh/" target="_blank">Ссылка на сайт мероприятия AI DAYS</a>
 <br />
-<a href="./JOKER Brest IA.pdf" target="_blank">Link to an abstract of the JokeR project</a>
+<a href="./JOKER Brest IA.pdf" target="_blank">Ссылка на реферат проекта JokeR</a>
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JokeR поддерживается Институтом гуманитарных наук в Бретани (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
