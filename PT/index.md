@@ -10,7 +10,7 @@
 
 <h3>Resumo</h3>
 
-A comunicação intercultural é profundamente baseada na tradução
+A comunicação intercultural é profundamente baseada na tradução.
 O humor continua, sem dúvida, a ser um dos seus aspetos mais difíceis, para compreender o humor é necessário compreender as referências culturais implícitas ou com duplo sentido, o que nos deixa naturalmente com a questão da (in)traduzibilidade do humor.Os trocadilhos são uma fonte comum de humor e são usados ​​por romancistas e poetas, inclusive em títulos e anúncios para chamar a atenção ou mnemônicos, lúdicos, subversivos, etc. A tradução de humor e trocadilhos encontra-se, portanto, em grande procura. A tradução moderna é extremamente auxiliada por ferramentas tecnológicas, mas poucos trabalhos estudaram a automação do humor e a tradução de trocadilhos e criação do corpo humorístico. Com base em nosso conhecimento, não existe um corpo paralelo. O projeto Joker centra-se nos problemas da identidade europeia através do estudo do humor numa perspetiva transcultural. O objetivo principal do projeto Joker é estudar as estratégias de localização de humor e trocadilhos ao criar um corpo multilíngue paralelo, que esteja de acordo com essas estratégias, aberto e de livre acesso.
 
 
