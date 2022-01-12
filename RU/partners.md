@@ -6,7 +6,7 @@
 [Главная](index) | [Проект](project) | [Публикации](publications) | Партнеры | [Свяжитесь с нами](contact) | [Средства](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/EN/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/EN/index) 
 <br>
 
-## Organizers: 
+## Организаторы: 
 * **Liana Ermakova (UBO)**
 <br>Профессор ИТ
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
@@ -65,7 +65,7 @@
 <br>[Ссылка на профиль](https://logological.org/) 
 <br>*Участник*
 
-## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="../img/SEA-EU.png">
+## Партнеры из университетов ЮВА-ЕС: <img align="right" width="150" height="150" src="../img/SEA-EU.png">
 
 * **Ġorġ Mallia (University of Malta)**
 <br>Доцент
@@ -99,7 +99,7 @@
 <br>*Участник*
 
 
-## Website maintenance:
+## Техническое обслуживание сайта:
 * **Adrien Couaillet (UBO)**
 <br>Технический перевод/редактирование Магистр
 <br>Department of English
