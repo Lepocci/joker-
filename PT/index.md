@@ -6,11 +6,12 @@
  Início | [Projeto](project) | [Publicações](publications) | [Parceiros](partners) | [Contactos](contact) | [Ferramentas](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
 
-<h2 align="center">Interculturality and Localization of Humor and Puns</h2>
+<h2 align="center">Interculturalidade e Localização do Humor e Jogos de Palavras</h2>
 
-<h3>Abstract</h3>
+<h3>Resumo</h3>
 
-Intercultural communication relies heavily on translation. Humor remains by far one of its most difficult aspects; to understand humor, one often has to grasp implicit cultural references and/or capture double meanings, which of course raises the question of the (in)translatability of humor. Puns are a common source of humor and are used by novelists and poets, as well as in headlines and advertising for their attention-getting or mnemonic, playful, subversive, etc. values. The translation of humor and puns is therefore in high demand. Modern translation is heavily aided by technological tools, yet few works have studied the automation of humor and puns translation and the creation of humor corpora. To the best of our knowledge, there does not exist any parallel corpus. The JokeR project addresses the issue of European identity through the study of humor in a cross-cultural perspective. The main objective of the JokeR project is to study the strategies of localization of humor and puns and to create a multilingual parallel corpus, annotated according to these strategies, open and freely available.
+A comunicação intercultural é profundamente baseada na tradução
+O humor continua, sem dúvida, a ser um dos seus aspetos mais difíceis, para compreender o humor é necessário compreender as referências culturais implícitas ou com duplo sentido, o que nos deixa naturalmente com a questão da (in)traduzibilidade do humor.Os trocadilhos são uma fonte comum de humor e são usados ​​por romancistas e poetas, inclusive em títulos e anúncios para chamar a atenção ou mnemônicos, lúdicos, subversivos, etc. A tradução de humor e trocadilhos encontra-se, portanto, em grande procura. A tradução moderna é extremamente auxiliada por ferramentas tecnológicas, mas poucos trabalhos estudaram a automação do humor e a tradução de trocadilhos e criação do corpo humorístico. Com base em nosso conhecimento, não existe um corpo paralelo. O projeto Joker centra-se nos problemas da identidade europeia através do estudo do humor numa perspetiva transcultural. O objetivo principal do projeto Joker é estudar as estratégias de localização de humor e trocadilhos ao criar um corpo multilíngue paralelo, que esteja de acordo com essas estratégias, aberto e de livre acesso.
 
 
 <a href="https://ai-days.bzh/" target="_blank">Link to the AI DAYS event website</a>
