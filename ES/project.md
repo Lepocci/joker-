@@ -33,7 +33,7 @@
 
 **Tarea piloto 1**: Clasifica y explica una construcción de un juego de palabras en un nombre propio o un neologismo. La clasificación será evaluada por la precisión, mientras que la explicación será comparada con el estándar de oro (coincidencia exacta).
 
-**Tarea piloto 2**: Traducir um juego de palabras de un sustantivo o neologismo del Ingles al Francés.
+**Tarea piloto 2**: Traducir un juego de palabras de un sustantivo o neologismo del Inglés al Francés.
 
 **Tarea piloto 3**: Traduce un juego de palabras de inglés para francés. 
 
