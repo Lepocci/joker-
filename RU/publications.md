@@ -3,10 +3,10 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- [Home](index) | [Project](project) | Publications | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)
+ [Главная](index) | [Проект](project) | Публикации | [Партнерыs](partners) | [Свяжитесь с нами](contact) | [Средства](tools) | [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)
 <br>
 
-<h2 align="center">Publications related to the JOKER project</h2>
+<h2 align="center">Публикации, связанные с проектом JOKER</h2>
   
   - Hempelmann Christian F. et Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a> - <a href="../BibTex/Puns_Taxonomy_and_phonology.bib">BibTeX</a>
   
@@ -48,10 +48,10 @@
 
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JokeR поддерживается Институтом гуманитарных наук в Бретани (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
