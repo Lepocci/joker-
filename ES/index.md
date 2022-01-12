@@ -3,25 +3,25 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- Home | [Project](project) | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index) 
+ Pagina Principal | [Proyecto](project) | [Publicaciones](publications) | [Socios](partners) | [Contáctanos](contact) | [Herramientas](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index) 
 <br>
 
-<h2 align="center">Interculturality and Localization of Humor and Puns</h2>
+<h2 align="center">Interculturalidad y Localización de Humor y Juegos de Palabras</h2>
 
-<h3>Abstract</h3>
+<h3>Resumo</h3>
 
-Intercultural communication relies heavily on translation. Humor remains by far one of its most difficult aspects; to understand humor, one often has to grasp implicit cultural references and/or capture double meanings, which of course raises the question of the (in)translatability of humor. Puns are a common source of humor and are used by novelists and poets, as well as in headlines and advertising for their attention-getting or mnemonic, playful, subversive, etc. values. The translation of humor and puns is therefore in high demand. Modern translation is heavily aided by technological tools, yet few works have studied the automation of humor and puns translation and the creation of humor corpora. To the best of our knowledge, there does not exist any parallel corpus. The JokeR project addresses the issue of European identity through the study of humor in a cross-cultural perspective. The main objective of the JokeR project is to study the strategies of localization of humor and puns and to create a multilingual parallel corpus, annotated according to these strategies, open and freely available.
+La comunicación intercultural se basa profundamente en la traducción. El humor sigue siendo sin duda uno de sus aspectos más difíciles, para entender humor, es necesario comprender referencias culturales implícitas o con doble significado, que por supuesto nos deja con la cuestión de la (in)traductibilidad del humor. Los juegos de palabras son un fuente común del humor y son utilizadas por novelistas y poetas, incluso también en títulos y anuncios para coger la atención o mnemónica, juguetona, subversiva. La traduccion de humor y juegos de palabras esta por lo tanto en grande demanda. La traducción moderna es extremamente ayudada por herramientas tecnológicas, aun así pocos ensayos han estudiado la automatización del humor y traducción de los juegos de palabras y creación de la corpórea humorística. Basado en nuestros conocimientos, no existe una corpórea paralela. El proyecto Joker se enfoca en los problemas de la identidad Europea a través del estudio del humor bajo una perspectiva transcultural. El principal objetivo del proyecto Joker es estudiar las estrategias de localización de humor y juegos de palabras mientras se crea una corpórea multilingüe paralela, que está de acuerdo con estas estrategias, abiertas y libremente accesibles. 
 
 
-<a href="https://ai-days.bzh/" target="_blank">Link to the AI DAYS event website</a>
+<a href="https://ai-days.bzh/" target="_blank">Enlace al sitio web del evento AI DAYS</a>
 <br />
-<a href="./JOKER Brest IA.pdf" target="_blank">Link to an abstract of the JokeR project</a>
+<a href="./JOKER Brest IA.pdf" target="_blank">Enlace a un resumen del proyecto JokeR</a>
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Este proyecto ha recibido una subvención gubernamental gestionada por la Agencia Nacional de Investigación bajo el programa "Investissements d'avenir" con la Referencia ANR-19-GURE-0001</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JokeR cuenta con el apoyo del Instituto de Ciencias Humanas de Bretaña (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
