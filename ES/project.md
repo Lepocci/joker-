@@ -6,51 +6,51 @@
 [Pagina principal](index) | Proyecto | [Publicaciones](publications) | [Socios](partners) | [Contáctanos](contact) | [Herramientas](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index)
 <br>
   <h1 align="center"><a href="https://lepocci.github.io/joker-/EN">CLEF Workshop JOKER</a>:</h1>
-  <h2 align="center">Automatic Pun and Humour Translation</h2>
+  <h2 align="center">Traducción Automática de Juegos de Palabras y Humor</h2>
 
-  <h3>Topics & Goals</h3>
+  <h3>Tópicos y Objetivos:</h3>
   
-  The goal is to unify the scientific community interested in automatic localization of humor and puns.  The JokeR project addresses the issue of European identity through the study of humor in a cross-cultural perspective. The main objective of the JokeR project is to study the strategies of localization of humor and puns and to create a multilingual parallel corpus, annotated according to these strategies, open and freely available, as well as evaluation metrics.
+  El objetivo es unir la comunidad científica interesada en la localización automática de humor y juegos de palabras. El proyecto JokeR aborda la cuestión de la identidad europea a través del estudio del humor en una perspectiva transcultural. El principal objetivo del proyecto JokeR es estudiar las estrategias de localización de humor y juegos de palabras de modo a crear un corpus multilingüe paralelo, anotado según estas estrategias, de libre acceso y libremente accesible, así como las métricas de evaluación.
 
-  <h3>Motivation & Relevance to CLEF & Significance for the field</h3> 
+  <h3>Motivación y relevancia para el CLEF e Importancia para el campo:</h3> 
 
-  Intercultural communication relies heavily on translation. Humor remains by far one of its most difficult aspects; to understand humor, one often has to grasp implicit cultural references and/or capture double meanings, which of course raises the question of the (in)translatability of humor. Puns are a common source of humor and are used by novelists, poets, and playwrights, as well as in titles, headlines, toponyms, anthroponyms, organizations, and advertising for their attention-getting or mnemonic, playful, subversive, etc. values. The translation of humor and puns is therefore in high demand. Modern translation is heavily aided by technological tools, yet few works have studied the automation of humor and puns translation and the creation of humor corpora. To the best of our knowledge, there does not exist any parallel corpus.
+  La comunicación intercultural depende muchísimo de la traducción. El humor se mantiene sin duda en unos de sus aspectos más difíciles, para entender el humor, uno tiene que captar las referencias culturales implícitas/o doble significados, lo que, por supuesto, plantea la cuestión de la (in)traducibilidad del humor. Los retruécanos son un elemento muy común en el humor los cuales son usados por novelistas, poetas, y dramaturgos, así como en títulos, manchetas, topónimos, antropónimos, organizaciones y publicidad, con el objetivo de llamar la atención o mnemónica, divertida, subversiva etc...  La traducción del humor y retruécanos esta por lo tanto muy solicitada. La traducción moderna se ve muy favorecida por las herramientas tecnológicas, pero son pocos los trabajos que han estudiado la automatización de la traducción de humor, retruécanos y la creación de corpus de humor.
 
-  The **multilingual parallel corpus** issued as the results of the JokeR workshop will be a step forward in the automatization of humour localization so as to train and evaluate machine translation models. Few **monolingual** humour corpora exist; for example, datasets created for the tasks of the International Workshop on Semantic Evaluation SemEval <a href="#note1">[1]–[3]</a>: #HashtagWars: Learning a Sense of Humor (2017), Detection and Interpretation of English Puns (2017), Assessing Humor in Edited News Headlines (2020), HaHackathon: Detecting and Rating Humor and Offense (2021). Mihalcea and Strapparava <a href="#note1">[4]</a> collected 16,000 humorous sentences and an equal number of negative samples from news titles, proverbs, British National Corpus, and the Open Mind Common Sense dataset, while another dataset contains 2,400 puns and not-puns from the news, Yahoo!Answers, and proverbs <a href="#note1">[5]</a>, <a href="#note2">[6]</a>. Most datasets are in English; few exceptions in Italian <a href="#note2">[7]</a>, Russian <a href="#note2">[8]</a>, <a href="#note2">[9]</a>, and Spanish <a href="#note2">[10]</a>.
+  Hasta onde sabemos no existe ningún corpus paralelo. El **corpus multilingüe paralelo** publicado como resultado del workshop de JokeR será un paso adelante en la automatización de la localización del humor para entrenar y evaluar modelos de traducción automática. Hay pocos corpusw **monolingües** de humor;  por ejemplo, conjuntos de datos creados para las tareas del Workshop Internacional de Evaluación Semántica SemEval <a href="#note1">[1]–[3]</a>: #HashtagWars: Learning a Sense of Humor (2017), Detection and Interpretation of English Puns (2017), Assessing Humor in Edited News Headlines (2020), HaHackathon: Detecting and Rating Humor and Offense (2021). Mihalcea y Strapparava <a href="#note1">[4]</a> colectaron 16.000 frases humorísticas y un idéntico número de muestras negativas de titulos de noticias, proverbios, el Corpus Nacional Britanico, y un conjunto de datos del Open Mind Common Sense, mientras otros conjuntos de datos contenían 2.400   retruécanos y no-retruécanos del noticiario, Yahoo!Answers, y proverbios <a href="#note1">[5]</a>, <a href="#note2">[6]</a>. La mayoría de los conjuntos de datos están en Ingles, aunque haya algunas excepciones para el Italiano <a href="#note2">[7]</a>, Russo <a href="#note2">[8]</a>, <a href="#note2">[9]</a>, y Español <a href="#note2">[10]</a>.
 
-  <h3>Application domain</h3>
+  <h3>Dominio de aplicación</h3>
 
-  The multilingual data and metrics resulting from the JokeR workshop will be a step forward in the automation of humor localization in order to train and evaluate machine translation models. This corpus might also be useful for translation students. 
+  Los datos y métricas multilingües resultantes del taller JokeR serán un paso adelante en la automatización de la localización del humor para entrenar y evaluar modelos de traducción automática. Este corpus también puede ser útil para estudiantes de traducción. 
 
-  <h3>Evaluation setup, metrics and pilot tasks</h3>
+  <h3>Configuración de evaluación, métricas y tareas piloto</h3>
 
-  The goal of the JokeR workshop is to bring together translators and computer scientists to work on an evaluation framework for creative langage. All types of contributions will be welcomed:
-  - Research & survey papers
-  - Position, discussion & demo papers
-  - Extended abstracts of published papers
+  El objetivo del taller JokeR es reunir a traductores y informáticos para trabajar en un marco de evaluación del lenguaje creativo. Todo tipo de contribuciones serán bienvenidos:
+  - Documentos de investigación y encuestas
+  - Documentos de posición, debate y demostración
+  - Resúmenes ampliados de artículos publicados
 
-  <h3>Pilot tasks</h3>
+  <h3>Tareas piloto</h3>
 
-**Pilot task 1**: Classify and explain a given punning construction in a proper noun or a neologism. The classification will be evaluated by the accuracy, while the explanation will be compared against the gold-standard (exact match).
+**Tarea piloto 1**: Clasifica y explica una construcción de un juego de palabras en un nombre propio o un neologismo. La clasificación será evaluada por la precisión, mientras que la explicación será comparada con el estándar de oro (coincidencia exacta).
 
-**Pilot task 2**: Translate a given pun from a proper noun or a neologism from English into French
+**Tarea piloto 2**: Translate a given pun from a proper noun or a neologism from English into French
 
-**Pilot task 3**: Translate a given punning phrase from English into French. 
+**Tarea piloto 3**: Traduce un juego de palabras de inglés para francés. 
 
-For the tasks 2& 3, it is necessary to establish metrics for evaluating translation quality. Traditionally, machine translation quality is measured by the BLEU (Bilingual Evaluation Understudy) metric, which calculates vocabulary overlap between the candidate translation and the reference translation <a href="#note2">[11]</a>. However, no metric based on vocabulary overlap is applicable to evaluate creative language translation. First, we will opt for a questionnaire to be filled in by the annotators ("is the wordplay present in the translation?", "is the semantic field preserved in the translation?” etc.). At the end of the workshop, we will study the automation of the selected metrics. 
+Para las tareas 2& 3, es necesario establecer métricas para evaluar la calidad de la traducción. Tradicionalmente, la calidad de la traducción automática se mide por la BLEU (Bilingual Evaluation Understudy) métrica, que calcula solapamiento de vocabulario entre la traducción candidata y la traducción de referencia <a href="#note2">[11]</a>. Sin embargo, ninguna métrica basada en el solapamiento de vocabulario es aplicable para evaluar la traducción creativa de idiomas. Primeramente, optaremos por un cuestionario que rellenarán los anotadores(“está presente el juego de palabras en la traducción?”, “se conserva el campo semántico en la traducción?” etc.). En el final del taller, estudiaremos la automatización de las métricas seleccionadas. 
 
-<h3>Expected length of the workshop at the conference is half-day:</h3>
+<h3>La duración prevista del taller en la conferencia es de media jornada:</h3>
 
-Opening speech 15 min
-  - Guest speaker 1 h
-  - Presentations of the participants 15 mins + 5 min for questions
-  - Closing speech 15 mins
+Discurso de apertura 15 min
+  - Orador invitado 1 h
+  - Presentaciones de los participantes 15 min + 5 min para preguntas
+  - Discurso de clausura 15 min
 
 <p>
-  <a href="./JOKER_CLEF_2021.pdf"><h3>CLEF evaluation campaign (pdf)</h3></a>
+  <a href="./JOKER_CLEF_2021.pdf"><h3>CLEF campaña de evaluación (pdf)</h3></a>
 </p>
 
-<h3 id="note1">References:</h3>
+<h3 id="note1">Referencias:</h3>
   <p>
 <p>[1]	‘SemEval-2021 Tasks’, SemEval-2021. https://semeval.github.io/SemEval2021/tasks.html (accessed Mar. 02, 2021).</p>
 <p>[2]	‘Tasks < SemEval-2017’. https://alt.qcri.org/semeval2017/index.php?id=tasks (accessed Mar. 02, 2021).</p>
@@ -66,10 +66,11 @@ Opening speech 15 min
   </p>
   
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Este proyecto ha recibido una subvención gubernamental gestionada por la Agencia Nacional de Investigación dentro del programa "Investissements d'avenir" con la referencia ANR-19-GURE-0001
+</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JokeR cuenta con el apoyo del Instituto de Ciencias Humanas de Bretaña (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
