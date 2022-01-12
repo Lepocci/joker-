@@ -11,7 +11,7 @@
 <br>Professora de Informática
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
 <br>[Link para o perfil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
-<br>*Project Leader*
+<br>*Líder do projeto*
 
 * **Benoît Jeanjean (UBO)**
 <br>Professor de Latim
