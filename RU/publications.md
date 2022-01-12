@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- [Главная](index) | [Проект](project) | Публикации | [Партнеры](partners) | [Свяжитесь с нами](contact) | [Средства](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/EN/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/EN/index)
+ [Главная](index) | [Проект](project) | Публикации | [Партнеры](partners) | [Свяжитесь с нами](contact) | [Приложения](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/EN/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/EN/index)
 <br>
 
 <h2 align="center">Публикации, связанные с проектом JOKER</h2>
