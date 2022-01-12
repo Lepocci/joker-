@@ -49,7 +49,7 @@
   - Заключительная речь 15 мин
 
 <p>
-  <a href="./JOKER_CLEF_2021.pdf"><h3>CLEF evaluation campaign (pdf)</h3></a>
+  <a href="./JOKER_CLEF_2021.pdf"><h3>Кампания по оценке CLEF (pdf)</h3></a>
 </p>
 
 <h3 id="note1">Ссылки:</h3>
