@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- [Главная](index) | [Проект](project) | [Публикации](publications) | [Партнеры](partners) | [Свяжитесь с нами](contact) | Средства | [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)
+ [Главная](index) | [Проект](project) | [Публикации](publications) | [Партнеры](partners) | [Свяжитесь с нами](contact) | Средства | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/EN/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/EN/index)
 <br>
 
 <br> [PunCAT](https://github.com/OFAI/PunCAT) : это интерактивный прототип инструмента для компьютерного перевода каламбуров. Хотя он может быть относительно легко адаптирован для работы с любой парой языков, для которых доступны сети слов, в настоящее время он поддерживает только перевод с английского на немецкий.

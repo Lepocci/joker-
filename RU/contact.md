@@ -6,7 +6,7 @@
 [Главная](index) | [Проект](project) | [Публикации](publications) | [PПартнеры](partners) | Свяжитесь с нами | [Средства](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau PT.png" width="20">](https://lepocci.github.io/joker-/PT/index) 
 <br>
 
-## Contact us via:
+## Свяжитесь с нами:
 <br>
 
 **Twitter:** [https://twitter.com/joker_research](https://twitter.com/joker_research)
