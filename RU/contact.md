@@ -18,10 +18,10 @@
 <a class="twitter-timeline" href="https://twitter.com/joker_research?ref_src=twsrc%5Etfw">Tweets by joker_research</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001.</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JokeR поддерживается Институтом гуманитарных наук в Бретани (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
