@@ -99,7 +99,7 @@
 <br>*Partícipe*
 
 
-## Website maintenance:
+## Mantenimiento del sitio web:
 * **Adrien Couaillet (UBO)**
 <br>Estudiante de Máster en Traducción/Redacción Técnica
 <br>Department of English
