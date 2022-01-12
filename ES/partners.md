@@ -17,53 +17,53 @@
 <br>Profesor de latín
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
 <br>[Enlace al perfil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit)
-<br>*Partícipe*
+<br>*Participante*
 
 * **Gaëlle Le Corre (UBO)** 
 <br>Profesora de lingüística inglesa
 <br>EA 4451 CRBC, UFR ALL SHS, Department of English
 <br>[Enlace al perfil](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
-<br>*Partícipe*
+<br>*Participante*
 
 * **Élise Mathurin (UBO)**
 <br>Profesora de Lingüística Inglesa, a cargo de los alumnos de primer año de la maestría en Redacción Técnica/Traducción Técnica.
 <br>HCTI EA-4249, UFR ALL SHS, Department of English
 <br>[Enlace al perfil](https://www.brestuniv-.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
-<br>*Partícipe*
+<br>*Participante*
 
 * **Mohamed Saki (UBO)**
 <br>Profesor de lingüística inglesa
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
 <br>[Enlace al perfil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed)
-<br>*Partícipe*
+<br>*Participante*
 
 * **Radia Hannachi (UBS)** 
 <br>Profesora de lingüística y francés como lengua extranjera
 <br>HCTI EA-4249, Faculty of Arts, Humanities and Social Sciences, "Département Ingénierie du Document"
-<br>*Partícipe*
+<br>*Participante*
 
 * **Anne-Gwenn Bosser (ENIB)**
 <br>Profesora asociada en ciencias computacionales
 <br>Lab-STICC (CNRS UMR 6285), Leader of the COMMEDIA Team
 <br>[Enlace al perfil](https://labsticc.fr/en/directory/bosser-anne-gwenn)
-<br>*Partícipe*
+<br>*Participante*
 
 * **Sílvia Araújo (University of Minho, Portugal)**
 <br>Profesora asociada en Lingüística de Corpus, Tecnologías Aplicadas a los Lenguajes y Humanidades Digitales
 <br>Department of Humanities and Social Sciences
 <br>[Enlace al perfil](http://cehum.ilch.uminho.pt/researchers/25)
-<br>*Partícipe*
+<br>*Participante*
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)** 
 <br>Profesor asociado en traducción de francés a italiano
 <br>Department of Language and Literature, Communication, Education and Society
 <br>[Enlace al perfil](https://people.uniud.it/page/fabio.regattin)
-<br>*Partícipe*
+<br>*Participante*
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
 <br>Grupo de Tecnologías del Lenguaje y la Interacción en OFAI
 <br>[Enlace al perfil](https://logological.org/) 
-<br>*Partícipe*
+<br>*Participante*
 
 ## Socios de las universidades SEA-EU: <img align="right" width="150" height="150" src="../img/SEA-EU.png">
 
@@ -71,32 +71,32 @@
 <br>Profesor asociado
 <br>Media & Communications department, Faculty of Media & Knowledge Sciences
 <br>[Enlace al perfil](https://www.um.edu.mt/profile/gorgmallia)
-<br>*Partner university coordinator, specialist in humour*
+<br>*Coordinador universitario asociado, especialista en humor*
 
 * **Claudine Borg (University of Malta)**
 <br>Profesora asociada
 <br>Translation, Terminology and Interpreting Studies Faculty of Arts
 <br>[Enlace al perfil](https://www.um.edu.mt/profile/claudineborg)
-<br>*Participant, specialist in translation*
+<br>*Participante, especialista en traducción*
 
 * **Monika Bokiniec (University of Gdansk)** 
 <br>Profesora asociada
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
 <br>[Enlace al perfil](https://ug.edu.pl/pracownik/413/monika_bokiniec)
-<br>*Partner university coordinator*
+<br>*Coordinador universitario asociado*
 
 * **Gordan Matas (University of Split)**
 <br>Profesor asociado
 <br>Department of Language and English Literature
 <br>[Enlace al perfil](https://www.ffst.unist.hr/gordan.matas)
-<br>*Partner university coordinator*
+<br>*Coordinador universitario asociado*
 
 
 * **Danica Škara (University of Split)**
 <br>Profesor emérito
 <br>English department, Faculty of Philosophy
 <br>[Enlace al perfil](https://www.researchgate.net/profile/Danica-Skara)
-<br>*Partícipe*
+<br>*Participante*
 
 
 ## Mantenimiento del sitio web:

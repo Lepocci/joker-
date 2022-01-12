@@ -24,7 +24,7 @@
 
   <h3>Configuración de evaluación, métricas y tareas piloto</h3>
 
-  El objetivo del taller JokeR es reunir a traductores y informáticos para trabajar en un marco de evaluación del lenguaje creativo. Todo tipo de contribuciones serán bienvenidos:
+  El objetivo del taller JokeR es reunir a traductores e informáticos para trabajar en un marco de evaluación del lenguaje creativo. Todo tipo de contribuciones serán bienvenidos:
   - Documentos de investigación y encuestas
   - Documentos de posición, debate y demostración
   - Resúmenes ampliados de artículos publicados
