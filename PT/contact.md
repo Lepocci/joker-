@@ -6,7 +6,7 @@
 [Início](index) | [Projeto](project) | [Publicações](publications) | [Parceiros](partners) | Contactos | [Ferramentas](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
 
-## Contact us via:
+## Contacte-nos através de:
 <br>
 
 **Twitter:** [https://twitter.com/joker_research](https://twitter.com/joker_research)
@@ -18,10 +18,10 @@
 <a class="twitter-timeline" href="https://twitter.com/joker_research?ref_src=twsrc%5Etfw">Tweets by joker_research</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Este projeto recebeu uma subvenção governamental gerida pela Agência Nacional de Investigação no âmbito do programa "Investissements d'avenir" com a Referência ANR-19-GURE-0001</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JokeR é apoiado pelo Instituto de Ciências Humanas da Bretanha (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
