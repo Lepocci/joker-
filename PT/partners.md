@@ -6,109 +6,109 @@
 [Início](index) | [Projeto](project) | [Publicações](publications) | Parceiros | [Contactos](contact) | [Ferramentas](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
 
-## Organizers: 
+## Organizadores: 
 * **Liana Ermakova (UBO)**
-<br>IT Lecturer
+<br>Professora de Informática
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
-<br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
+<br>[Link para o perfil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana)
 <br>*Project Leader*
 
 * **Benoît Jeanjean (UBO)**
-<br>Latin Professor
+<br>Professor de Latim
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
-<br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit)
-<br>*Participant*
+<br>[Link para o perfil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Jeanjean__Benoit)
+<br>*Participante*
 
 * **Gaëlle Le Corre (UBO)** 
-<br>English Linguistics Lecturer
+<br>Professora de Linguística Inglesa
 <br>EA 4451 CRBC, UFR ALL SHS, Department of English
-<br>[Link to profile](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
-<br>*Participant*
+<br>[Link para o perfil](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
+<br>*Participante*
 
 * **Élise Mathurin (UBO)**
-<br>English Linguistics Lecturer, in charge of the first-year students of the Technical Writing/Technical Translation master's degree.
+<br>Professora de Linguística Inglesa, responsável pelos alunos do primeiro ano do mestrado em Redação Técnica/Tradução Técnica.
 <br>HCTI EA-4249, UFR ALL SHS, Department of English
-<br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
-<br>*Participant*
+<br>[Link para o perfil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
+<br>*Participante*
 
 * **Mohamed Saki (UBO)**
-<br>English Linguistics Lecturer
+<br>Professor de Linguística Inglesa
 <br>HCTI EA-4249, Department of Humanities and Social Sciences
-<br>[Link to profile](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed)
-<br>*Participant*
+<br>[Link para o perfil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Saki--Mohamed)
+<br>*Participante*
 
 * **Radia Hannachi (UBS)** 
-<br>French Linguistics and French as a Foreign Language Didactics Lecturer
+<br>Professora de Linguística Francesa e Didática do Francês Língua Estrangeira
 <br>HCTI EA-4249, Faculty of Arts, Humanities and Social Sciences, "Département Ingénierie du Document"
-<br>*Participant*
+<br>*Participante*
 
 * **Anne-Gwenn Bosser (ENIB)**
-<br>Associate Professor in Computational Sciences
+<br>Professora Associada em Ciências da Computação
 <br>Lab-STICC (CNRS UMR 6285), Leader of the COMMEDIA Team
-<br>[Link to profile](https://labsticc.fr/en/directory/bosser-anne-gwenn)
-<br>*Participant*
+<br>[Link para o perfil](https://labsticc.fr/en/directory/bosser-anne-gwenn)
+<br>*Participante*
 
 * **Sílvia Araújo (University of Minho, Portugal)**
-<br>Associate Professor in Corpus Linguistics, Technologies Applied to Languages and Digital Humanities
+<br>Professora Associada em Linguística de Corpus, Tecnologias Aplicadas a Linguagens e Humanidades Digitais
 <br>Department of Humanities and Social Sciences
-<br>[Link to profile](http://cehum.ilch.uminho.pt/researchers/25)
-<br>*Participant*
+<br>[Link para o perfil](http://cehum.ilch.uminho.pt/researchers/25)
+<br>*Participante*
 
 * **Fabio Regattin (Università degli Studi di Udine, Italy)** 
-<br>Associate Professor in French to Italian Translation
+<br>Professor Associado em Tradução Francês para Italiano
 <br>Department of Language and Literature, Communication, Education and Society
-<br>[Link to profile](https://people.uniud.it/page/fabio.regattin)
-<br>*Participant*
+<br>[Link para o perfil](https://people.uniud.it/page/fabio.regattin)
+<br>*Participante*
 
 * **Tristan Miller (Austrian Research Institute for Artificial Intelligence, Austria)**
-<br>Language and Interaction Technologies Group at OFAI
-<br>[Link to profile](https://logological.org/) 
-<br>*Participant*
+<br>Grupo de Tecnologias de Linguagem e Interação da OFAI
+<br>[Link para o perfil](https://logological.org/) 
+<br>*Participante*
 
-## Partners from the SEA-EU universities: <img align="right" width="150" height="150" src="../img/SEA-EU.png">
+## Parceiros das universidades SEA-EU: <img align="right" width="150" height="150" src="../img/SEA-EU.png">
 
 * **Ġorġ Mallia (University of Malta)**
-<br>Associate Professor
+<br>Professor Associado
 <br>Media & Communications department, Faculty of Media & Knowledge Sciences
-<br>[Link to profile](https://www.um.edu.mt/profile/gorgmallia)
-<br>*Partner university coordinator, specialist in humour*
+<br>[Link para o perfil](https://www.um.edu.mt/profile/gorgmallia)
+<br>*Coordenador da universidade parceira, especialista em humor*
 
 * **Claudine Borg (University of Malta)**
-<br>Associate Professor
+<br>Professora Associada
 <br>Translation, Terminology and Interpreting Studies Faculty of Arts
-<br>[Link to profile](https://www.um.edu.mt/profile/claudineborg)
-<br>*Participant, specialist in translation*
+<br>[Link para o perfil](https://www.um.edu.mt/profile/claudineborg)
+<br>*Participante, especialista em traduções*
 
 * **Monika Bokiniec (University of Gdansk)** 
-<br>Associate Professor
+<br>Professora Associada
 <br>Department of Aesthetics and Philosophy of Culture, Faculty of Social Sciences
-<br>[Link to profile](https://ug.edu.pl/pracownik/413/monika_bokiniec)
-<br>*Partner university coordinator*
+<br>[Link para o perfil](https://ug.edu.pl/pracownik/413/monika_bokiniec)
+<br>*Coordenador da universidade parceira*
 
 * **Gordan Matas (University of Split)**
-<br>Associate Professor
+<br>Professor Associado
 <br>Department of Language and English Literature
-<br>[Link to profile](https://www.ffst.unist.hr/gordan.matas)
-<br>*Partner university coordinator*
+<br>[Link para o perfil](https://www.ffst.unist.hr/gordan.matas)
+<br>*Coordenador da universidade parceira*
 
 
 * **Danica Škara (University of Split)**
 <br>Professor Emeritus
 <br>English department, Faculty of Philosophy
-<br>[Link to profile](https://www.researchgate.net/profile/Danica-Skara)
-<br>*Participant*
+<br>[Link para o perfil](https://www.researchgate.net/profile/Danica-Skara)
+<br>*Participante*
 
 
-## Website maintenance:
+## Manutenção do site:
 * **Adrien Couaillet (UBO)**
-<br>Technical Translation/Redaction Master's Degree's Student
+<br>Estudante de Mestrado em Tradução/Redação Técnica
 <br>Department of English
-<br>*Intern*
+<br>*Estagiário*
 
 * **Ludivine Grégoire (UBO)**
-<br>Technical Translation/Redaction Master's Degree's Student
+<br>Estudante de Mestrado em Tradução/Redação Técnica
 <br>Department of English
-<br>*Intern*
+<br>*Estagiária*
 
 <p align="center">
 <img src="../img/UBO.png" width="150">  <img src="../img/UBS.png" width="150">  <img src="../img/CRBC.png" width="150">

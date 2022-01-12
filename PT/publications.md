@@ -6,7 +6,7 @@
  [Início](index) | [Projeto](project) | Publicações | [Parceiros](partners) | [Contactos](contact) | [Ferramentas](tools) | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
 
-<h2 align="center">Publications related to the JOKER project</h2>
+<h2 align="center">Publicações relacionadas ao projeto JOKER</h2>
   
   - Hempelmann Christian F. et Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a> - <a href="../BibTex/Puns_Taxonomy_and_phonology.bib">BibTeX</a>
   

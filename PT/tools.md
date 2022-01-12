@@ -6,10 +6,10 @@
  [Início](index) | [Projeto](project) | [Publicações](publications) | [Parceiros](partners) | [Contactos](contact) | TFerramentas | [<img src="../img/drapeau EN.png" width="20">](https://lepocci.github.io/joker-/EN/index) [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index)  [<img src="../img/drapeau ES.png" width="20">](https://lepocci.github.io/joker-/ES/index)  [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index) 
 <br>
 
-<br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT is an interactive prototype tool for the computer-assisted translation of puns. While it can be relatively easily adapted to work with any pair of languages for which wordnets are available, it currently supports only translation from English into German.
+<br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT é uma ferramenta de protótipo interativo para a tradução assistida por computador de trocadilhos. Embora possa ser adaptado com relativa facilidade para trabalhar com qualquer par de idiomas para os quais as wordnets estejam disponíveis, atualmente ele suporta apenas a tradução do inglês para o alemão.
 
-* **JURASSIC**: AI21 Studio provides access to Jurassic-1 suite of language models. Jurassic-1 can be fine-tuned via model customization for the machine translation task, as well as for classification [https://www.ai21.com/blog/ai21-studio-use-cases](https://www.ai21.com/blog/ai21-studio-use-cases)
-* **Multilingual T5 (mT5)**  is a large multilingual pretrained text-to-text transformer model developped by Google covering 101 languages. mT5 can be fine-tuned using the [SimpleT5 library](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
+* **JURASSIC**: O AI21 Studio fornece acesso ao conjunto Jurassic-1 de modelos de linguagem. Jurassic-1 pode ser ajustado através da personalização do modelo para a tarefa de tradução automática, bem como para a classificação [https://www.ai21.com/blog/ai21-studio-use-cases](https://www.ai21.com/blog/ai21-studio-use-cases)
+* **Multilingual T5 (mT5)**  é um grande modelo de transformador de texto para texto pré-treinado multilíngue desenvolvido pelo Google cobrindo 101 idiomas. mT5 pode ser ajustado usando o [SimpleT5 library](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
 
 <p>
 <em>Este projeto recebeu um subsídio do governo administrado pela Agência Nacional de Investigação no âmbito do programa "Investissements d'avenir" com a Referência ANR-19-GURE-0001</em>
