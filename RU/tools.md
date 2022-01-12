@@ -3,19 +3,19 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- [Home](index) | [Project](project) | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | Tools | [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)
+ [Главная](index) | [Проект](project) | [Публикации](publications) | [Партнеры](partners) | [Свяжитесь с нами](contact) | Средства | [<img src="../img/drapeau FR.png" width="20">](https://lepocci.github.io/joker-/FR/index) [<img src="../img/drapeau RU.png" width="20">](https://lepocci.github.io/joker-/RU/index)
 <br>
 
-<br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT is an interactive prototype tool for the computer-assisted translation of puns. While it can be relatively easily adapted to work with any pair of languages for which wordnets are available, it currently supports only translation from English into German.
+<br> [PunCAT](https://github.com/OFAI/PunCAT) : это интерактивный прототип инструмента для компьютерного перевода каламбуров. Хотя он может быть относительно легко адаптирован для работы с любой парой языков, для которых доступны сети слов, в настоящее время он поддерживает только перевод с английского на немецкий.
 
-* **JURASSIC**: AI21 Studio provides access to Jurassic-1 suite of language models. Jurassic-1 can be fine-tuned via model customization for the machine translation task, as well as for classification [https://www.ai21.com/blog/ai21-studio-use-cases](https://www.ai21.com/blog/ai21-studio-use-cases)
-* **Multilingual T5 (mT5)**  is a large multilingual pretrained text-to-text transformer model developped by Google covering 101 languages. mT5 can be fine-tuned using the [SimpleT5 library](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
+* **JURASSIC**: AI21 Studio предоставляет доступ к набору языковых моделей Jurassic-1. urassic-1 может быть тонко настроен с помощью настройки модели для задачи машинного перевода, а также для классификации  [https://www.ai21.com/blog/ai21-studio-use-cases](https://www.ai21.com/blog/ai21-studio-use-cases)
+* **Multilingual T5 (mT5)**   это большая многоязычная предварительно обученная модель трансформации текста в текст, разработанная Google и охватывающая 101 язык. mT5 может быть тонко настроена с помощью [библиотеки SimpleT5](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001.</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JokeR поддерживается Институтом гуманитарных наук в Бретани (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
