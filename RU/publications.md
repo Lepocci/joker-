@@ -47,6 +47,8 @@
   - Uma Alexandra et al.,  «&nbsp;SemEval-2021 Task 12: Learning with Disagreements&nbsp;», <em>Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)</em>, Association for Computational Linguistics, 2021, p. 338‑47. <em>DOI.org (Crossref)</em>, <a href="https://doi.org/10.18653/v1/2021.semeval-1.41">URL</a>. - <a href="../BibTex/SemEval-2021_Task_12.bib">BibTeX</a>
 
 
+<img src="../img/poster1-ru.png">
+
 <p>
 <em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001</em>
 </p>
