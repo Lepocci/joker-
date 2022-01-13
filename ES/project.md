@@ -65,6 +65,8 @@ Discurso de apertura 15 min
 <p>[11]	K. Papineni, S. Roukos, T. Ward, and W.-J. Zhu, ‘BLEU: a method for automatic evaluation of machine translation’, in Proceedings of the 40th annual meeting on association for computational linguistics, 2002, pp. 311–318.<p/>
   </p>
   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ZLrRN4ITjU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <p>
 <em>Este proyecto ha recibido una subvención gubernamental gestionada por la Agencia Nacional de Investigación dentro del programa "Investissements d'avenir" con la referencia ANR-19-GURE-0001
 </em>
