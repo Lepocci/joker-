@@ -66,7 +66,9 @@
 <p>[10]	S. Castro, L. Chiruzzo, A. Rosá, D. Garat, and G. Moncecchi, ‘A Crowd-Annotated Spanish Corpus for Humor Analysis’, in Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media, Melbourne, Australia, Jul. 2018, pp. 7–11. doi: 10.18653/v1/W18-3502.</p>
 <p>[11]	K. Papineni, S. Roukos, T. Ward, and W.-J. Zhu, ‘BLEU: a method for automatic evaluation of machine translation’, in Proceedings of the 40th annual meeting on association for computational linguistics, 2002, pp. 311–318.<p/>
   </p>
-  
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/lkLq8xc3hMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <p>
 <em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001.</em>
 </p>
