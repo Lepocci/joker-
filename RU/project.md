@@ -70,7 +70,7 @@
  <iframe width="560" height="315" src="https://www.youtube.com/embed/lkLq8xc3hMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>
-<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001.</em>
+<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir», ссылка ANR-19-GURE-0001.</em>
 </p>
 <p>
 <em>JokeR поддерживается Институтом гуманитарных наук в Бретани (MSHB).</em>

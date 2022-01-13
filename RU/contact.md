@@ -18,7 +18,7 @@
 <a class="twitter-timeline" href="https://twitter.com/joker_research?ref_src=twsrc%5Etfw">Tweets by joker_research</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>
-<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001.</em>
+<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir», ссылка ANR-19-GURE-0001.</em>
 </p>
 <p>
 <em>JokeR поддерживается Институтом гуманитарных наук в Бретани (MSHB)</em>

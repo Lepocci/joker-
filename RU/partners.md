@@ -22,13 +22,13 @@
 * **Gaëlle Le Corre (UBO)** 
 <br>Профессор Английской Лингвистики
 <br>EA 4451 CRBC, UFR ALL SHS, Department of English
-<br>[Ссілка на профиль](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
+<br>[Ссылка на профиль](https://www.univ-brest.fr/crbc/menu/Membres+du+laboratoire/Enseignants-chercheurs/Ga-lle-Le-Corre)
 <br>*Участник*
 
 * **Élise Mathurin (UBO)**
 <br>Профессор Английской Лингвистики, курирует первокурсников магистратуры «Техническое письмо/Технический перевод».
 <br>HCTI EA-4249, UFR ALL SHS, Department of English
-<br>[Ссілка на профиль](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
+<br>[Ссылка на профиль](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
 <br>*Участник*
 
 * **Mohamed Saki (UBO)**
@@ -118,7 +118,7 @@
 </p>
 
 <p>
-<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001</em>
+<em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir», ссылка ANR-19-GURE-0001</em>
 </p>
 <p>
 <em>JokeR поддерживается Институтом гуманитарных наук в Бретани (MSHB)</em>
