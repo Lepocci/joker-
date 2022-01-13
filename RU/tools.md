@@ -8,8 +8,8 @@
 
 <br> [PunCAT](https://github.com/OFAI/PunCAT) : это интерактивный прототип инструмента для компьютерного перевода каламбуров. Хотя он может быть относительно легко адаптирован для работы с любой парой языков, для которых доступны сети слов, в настоящее время он поддерживает только перевод с английского на немецкий.
 
-* **JURASSIC**: AI21 Studio предоставляет доступ к набору языковых моделей Jurassic-1. urassic-1 может быть тонко настроен с помощью настройки модели для задачи машинного перевода, а также для классификации  [https://www.ai21.com/blog/ai21-studio-use-cases](https://www.ai21.com/blog/ai21-studio-use-cases)
-* **Multilingual T5 (mT5)**   это большая многоязычная предварительно обученная модель трансформации текста в текст, разработанная Google и охватывающая 101 язык. mT5 может быть тонко настроена с помощью [библиотеки SimpleT5](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
+* **JURASSIC**: AI21 Studio предоставляет доступ к набору языковых моделей Jurassic-1. urassic-1 может быть настроен с помощью модели для задачи машинного перевода, а также для классификации.  [https://www.ai21.com/blog/ai21-studio-use-cases](https://www.ai21.com/blog/ai21-studio-use-cases)
+* **Multilingual T5 (mT5)**   это большая многоязычная предварительно обученная модель трансформации текста в текст, разработанная Google и охватывающая 101 язык. mT5 может быть настроена с помощью [библиотеки SimpleT5](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
 
 <p>
 <em>Этот проект получил государственный грант, управляемый Национальным исследовательским агентством в рамках программы «Investissements d'avenir» со ссылкой ANR-19-GURE-0001.</em>
