@@ -49,6 +49,8 @@
 
 <img src="../img/poster1-es.png">
 
+<img src="../img/poster2-es.png">
+
 <p>
 <em>Este proyecto ha recibido una subvención gubernamental gestionada por la Agencia Nacional de Investigación bajo el programa "Investissements d'avenir" con la Referencia ANR-19-GURE-0001</em>
 </p>
